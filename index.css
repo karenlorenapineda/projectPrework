@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-size: 35px;
+    color: red;
+    stroke: 1px solid black;
+}
+
+p {
+    font-size: 15px;
+    color: chartreuse;
+    -webkit-text-stroke: 1px black;
+}
